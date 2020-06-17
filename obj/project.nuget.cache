@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fP04n1mSEAm8+8jNGj1K7jWrIo8LEnnK1kSbfmD5AwVNvRI0J6FglBSSpRKya1oIXNng/4JNaEZ6r74SS3aT/w==",
+  "success": true,
+  "projectFilePath": "C:\\Demo\\CoreAppDemo\\CoreAppDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SNEHA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
